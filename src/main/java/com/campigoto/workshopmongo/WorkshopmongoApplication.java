@@ -1,13 +1,13 @@
-package com.campigoto.workshomongo;
+package com.campigoto.workshopmongo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WorkshomongoApplication {
+public class WorkshopmongoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WorkshomongoApplication.class, args);
+		SpringApplication.run(WorkshopmongoApplication.class, args);
 	}
 
 }
