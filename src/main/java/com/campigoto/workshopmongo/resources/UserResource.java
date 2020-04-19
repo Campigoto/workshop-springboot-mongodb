@@ -1,4 +1,4 @@
-package com.campigoto.workshopmongo.resource;
+package com.campigoto.workshopmongo.resources;
 
 import java.util.List;
 
